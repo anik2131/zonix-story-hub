@@ -1,0 +1,112 @@
+body{
+    background-color: red;
+}
+
+.login-card{
+    background-color: aliceblue;
+    height: 640px;
+    width: 490px;
+    margin-left: 550px;
+    margin-top: 50px;
+     box-shadow: 10px 10px 5px #c2f9f8;
+}
+.signup-card{
+    background-color: aliceblue;
+    height: 540px;
+    width: 490px;
+    margin-left: 550px;
+    margin-top: 120px;
+     box-shadow: 10px 10px 5px #c2f9f8;
+}
+
+.text-boxes{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.text-boxes input{
+    padding:5px;
+    width:270px;
+    box-shadow: 5px 5px 5px #dddddd;
+    border-radius: 12px;
+    border-style: none;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.button{
+    margin-left: 170px;
+    margin-top: 30px;
+}
+.login-button{
+    padding:5px 5px;
+    width:120px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px #dddddd;
+    border-style: none;
+    background-color: #7fd78f;
+    font-size: 16px;
+    color: blue;
+}
+.old-user{
+    margin-left: 130px;
+    margin-top: 20px;
+    font-family: monospace;
+    font-size: 16px;
+}
+.new-user{
+    margin-left: 160px;
+    margin-top: 20px;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.subject{
+    padding:5px;
+    width:270px;
+    height:370px;
+    box-shadow: 5px 5px 5px #dddddd;
+    border-radius: 12px;
+    border-style: none;
+    font-family: monospace;
+    font-size: 16px;
+}
+.navbar{
+    background-color: aliceblue;
+    margin-top: -7px;
+    margin-left: -5px;
+     width:1517px;
+    height:70px;
+    box-shadow: 10px 10px 5px #d1dad9;
+}
+
+.logo{
+    color: forestgreen;
+    text-align: center;
+    font-family: fantasy;
+    text-shadow: 5px 5px 5px #9ad691;
+}
+
+.logo-nav{
+    color: forestgreen;
+    font-family: fantasy;
+    text-shadow: 5px 5px 5px #9ad691;
+    margin-left: 20px;
+}
+.name{
+    margin-top: -30px;
+    margin-left: 670px;
+    color: fuchsia;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.log-out{
+    float: right;
+    margin-top: -50px;
+    margin-right: 20px;
+    padding: 12px;
+    background-color: ghostwhite;
+    border-style: none;
+    border-radius: 60px;
+}
